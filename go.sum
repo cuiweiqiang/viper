@@ -34,6 +34,7 @@ github.com/stretchr/testify v1.2.3-0.20181014000028-04af85275a5c h1:03OmljzZYsez
 github.com/stretchr/testify v1.2.3-0.20181014000028-04af85275a5c/go.mod h1:a8OnRcib4nhh0OaRAV+Yts87kKdq0PP7pXfy6kDkUVs=
 github.com/stretchr/testify v1.2.3-0.20181115233458-8019298d9fa5 h1:ixuBiBNIIQ3RKRSZy9B0DgaqreXG6NDHrbwAFGg8Mwk=
 github.com/stretchr/testify v1.2.3-0.20181115233458-8019298d9fa5/go.mod h1:a8OnRcib4nhh0OaRAV+Yts87kKdq0PP7pXfy6kDkUVs=
+github.com/ugorji/go v1.1.1/go.mod h1:hnLbHMwcvSihnDhEfx2/BzKp2xb0Y+ErdfYcrs9tkJQ=
 github.com/ugorji/go/codec v0.0.0-20181204163529-d75b2dcb6bc8 h1:3SVOIvH7Ae1KRYyQWRjXWJEA9sS/c/pjvH++55Gr648=
 github.com/ugorji/go/codec v0.0.0-20181204163529-d75b2dcb6bc8/go.mod h1:VFNgLljTbGfSG7qAOspJ7OScBnGdDN/yBr0sguwnwf0=
 github.com/xordataexchange/crypt v0.0.2 h1:VBfFXTpEwLq2hzs42qCHOyKw5AqEm9DYGqBuINmzUZY=
